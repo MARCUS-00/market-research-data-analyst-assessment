@@ -51,7 +51,3 @@ Blue text on yellow cells are inputs and assumptions; everything else is a formu
 - No supplier costs were available, so profitability for the Q5 products is a target to test, not a finding.
 - Australia Post's Home & Garden online spend is $9.9b (+9.9%) in its own category PDF, but three secondary sources (a trade-press article, an IPC news item and an industry blog) quote $11.4b and attribute it to the main report. The two figures are not reconciled: the main report was not opened and the category definitions may differ. $9.9b is used because it was read on Australia Post's own page; either figure shows a large category growing at about 10% a year. All links are in the workbook `Sources` sheet.
 - Temple & Webster's Gordo raised bed page shows a $84.95 to $124 range across options; $84.95 is used as the price and the $124 is not treated as a discounted "was" price.
-
-## AI disclosure
-
-This submission was prepared with AI assistance (Claude). The interviewer/company permitted AI use for this assessment.

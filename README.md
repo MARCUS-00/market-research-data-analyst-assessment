@@ -23,8 +23,8 @@ Research date: **8 October 2026**. All prices are in AUD.
 | `Q6_Profitability` | Profit and margin on the $149.95 scenario, break-even and target prices, GST sensitivity |
 | `Q8_Sales` | Traffic, orders, conversion and revenue per visitor, January to April |
 | `Q9_Funnel` | The four funnel conversion rates and the weakest stage |
-| `Sources` | Source register: claim, URL, source type, access date |
-| `QA` | Automated checks that recompute key results a second way (all pass) |
+| `Sources` | Source register: claim, URL, source type, evidence class (primary or secondary), access date |
+| `QA` | 19 automated checks that recompute key results a second way (all pass) |
 
 Blue text on yellow cells are inputs and assumptions; everything else is a formula.
 
@@ -49,7 +49,8 @@ Blue text on yellow cells are inputs and assumptions; everything else is a formu
 - The 15 chairs are not identical products; comparisons are made within chair type where it matters.
 - Google Trends averages were read from the chart by eye and are approximate. Trends measures search interest, not sales.
 - No supplier costs were available, so profitability for the Q5 products is a target to test, not a finding.
-- Australia Post's Home & Garden online spend appears as $9.9b in its own category report and as $11.4b in press coverage of the main report. The two figures are not reconciled; $9.9b is the one read directly from Australia Post's category PDF, and $11.4b comes from press coverage that was not checked against the main report.
+- Australia Post's Home & Garden online spend is $9.9b (+9.9%) in its own category PDF, but three secondary sources (a trade-press article, an IPC news item and an industry blog) quote $11.4b and attribute it to the main report. The two figures are not reconciled: the main report was not opened and the category definitions may differ. $9.9b is used because it was read on Australia Post's own page; either figure shows a large category growing at about 10% a year. All links are in the workbook `Sources` sheet.
+- Temple & Webster's Gordo raised bed page shows a $84.95 to $124 range across options; $84.95 is used as the price and the $124 is not treated as a discounted "was" price.
 
 ## AI disclosure
 
